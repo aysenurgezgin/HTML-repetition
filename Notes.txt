@@ -1,3 +1,14 @@
 Kullandığım işletim sistemi= Windows 11 
 Kullandığım Sistem Türü= 64 bit işletim sistemi, x64 tabanlı işlemci
 Not almak için;<!---->
+
+*SEO= Search Engine Optimization=)Arama Motoru Optimuzasyonu'dur.Bir web sitesinin arama performansını arttırmaya yönelik yapılan çalışmalara denir.Uygun ve kaliteli SEO ile sitemiz arama sonuçların da daha üst sıralarda görülebilir.Sitemizin üst sıralara çıkması için Semantik&SEO amaçlı kodlama prensiplerine dikkat etmeliyiz.
+*SEO ve Title(Sayfa Başlığı) etiketi;
+Arama motorları sürekli dünya üzerindeki web sunucularını dolaşırlar ve bu sunucularda bulunan web sitelerindeki bilgileri veri tabanlarına kaydederler bu tür yazılımlar=spider/örümcek denir.
+*SEO açısından bilinmesi gereken en önemli konulardan biri sayfa başlığı ve <title>tagıdır.
+*Eğer <title>içinde geçen kelimelerden biri aranırsa bizim  sayfamız da arama sonuçlarında listelenebilir.
+*Genelde en fazla 60 karakter uzunluğundadır.
+
+*Description(Sayfa açıklaması)
+Arama motorları açısından önemli etiketlerden biri de<meta>etiketidir.
+*<meta>etiketinin içine <title> etiketi ile ilişkili olarak yazılan açıklama sayfamızın daha üstte görünmesini sağlar.
