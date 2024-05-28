@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="utf-8">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    </head>
+    <body id="ust">
+        <center>
+            <h1>Psikolok Ekleme Çıkartma</h1>
+            
+            <hr>
+            <a href="index.html">Ana Sayfa</a>
+            <a href="psikologlar.html">Psikologlarımız</a>
+            <a href="donus.html">Geri Dönüşler</a>
+            <a href="admin.html">Admin Panel</a>
+
+        </center>
+
+        <h1>Psikolog Özellikleri:</h1>
+        <form name="kayit" action="kayit.aspx" method="get">
+        <table>
+            <tr><td>Ad Soyad:</td><td><input type="text" name="adsoyad"></td></tr>
+            <tr><td>Email:</td><td><input type="email"></td></tr>
+            
+            <tr><td> Kısaca tanıma metni: <textarea name="özgeçmiş" rows="9"></textarea></td></tr>
+            <h4>Yaşadığı şehir</h4>
+            <select name="dogumyeri" id="dogumyeri">
+                <option>Adana</option>
+                <option>Antalya</option>
+                <option>İzmir</option>
+                <option>Ankara</option>
+                <option selected>İstanbul</option>
+            </select>
+
+            <tr><td></td><td><input type="submit"><input type="reset"></td></tr>
+
+          
+        </table>
+        </form>
+        <h1>Admin panel</h1>
+        <a href="#ust">En üst kısıma dön</a>
+    </body>
+</html>
