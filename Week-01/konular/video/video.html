@@ -4,7 +4,11 @@
 
     </head>
     <body>
+        <h>Video Oynat</h>
+        <br>
+        <video src="videolar/dag.mp4.mp4" controls width="200" loop autoplay>
 
+        </video>
     </body>
 </html>
 
@@ -24,4 +28,17 @@ Autoplay;Sayfa açılır açılmaz oynatılmasının sağlar fakat her
 tarayıcı bu özelliği desteklemiyor.Controls video kontollerinin
 görülmesini sağlıyor(durdur oynat gibi).Loop ise videonun devamlı
 oynamasını sağlayan özellik.
+
+*Tarayıcılarda çalışmama ihtimaline karşı;
+Farklı tarayıcılarda sorun yaşamamak için yöntem;
+<video width="320" height="240" controls>
+    <source src="/videolar/dag.mp4.mp4" type="video/mp4">
+    <source src="/videolar/dag.mp4.mp4" type="video/ogg">
+    <source src="/videolar/dag.mp4.mp4" type="video/webm">
+</video>
+
+Mp4 varsa Çevirici yazılımlarla hem ogg hem de webm formatlı dosyasını
+elde edip bunları ekliyorz ziyaretçilerin sorun yaşamamsı için.
+
+
 -->
