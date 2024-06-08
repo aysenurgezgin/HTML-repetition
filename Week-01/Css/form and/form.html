@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+       /* input{
+            color: aqua;
+            background-color: blue;
+        }
+        Ya da gruplandırma yöntemi ile;*/
+       /* input[type=text], input[type=email]{
+            color: blue;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 16px;
+            font-weight: bolder;
+            background-color: chocolate;
+        }Ya da her bir bir class oluşturup oluşturduğum bu classı aşağıda ki form
+        elamanına uygulayabiliriz; */
+        .formeleman{
+            color: darkblue;
+            font-size: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: rgb(46, 92, 132);
+            border-color: darkorchid;
+            border-width: 5px;
+            border-style: dashed;
+            margin: 10px;
+            padding: 10px;
+        }
+        
+    </style>
+</head>
+<body>
+    <form>
+        Ad Soyad: <input class="formeleman" type="text">
+        <br>
+        Email: <input class="formeleman" type="email">
+        <br>
+        Mesaj: <textarea class="formeleman" cols="50" rows="5">
+
+        </textarea>
+        <br>
+        <input class="formeleman" type="submit">
+        <input class="formeleman" type="reset">
+    </form>
+</body>
+</html>
