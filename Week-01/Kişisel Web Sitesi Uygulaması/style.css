@@ -1,0 +1,12 @@
+/*CSS Dosyası*/
+
+/*Boşlukarı Sıfırla*/
+*{
+    margin:0 px;
+    padding:0 px;
+}
+
+body{
+    background-color: aquamarine;
+    background-image: url(resimler/indir\ \(1\).jfif);
+}
