@@ -16,3 +16,14 @@ Tarayıcı;
 Web'in programlama dili.
 !Bilgisayar ve web taracısı istemci olarak adlandırılır.Web sayfasını oluşturan gelişmiş 
 bilgisayarlar,veritabanları ve uygulamalar da Sunucu olarak adlandırlır.
+
+
+/Js kodlarının yazılım alanları;
+Sayfa açılır açılmaz çalışmasını istiyorsak=Head bölümüne
+Body bölümüne ya da body bölümünün de dışına yazılabilir.
+Js Kodları ne kadar yukarı yazılırsa o kadar önce çalışır.Genelde js kodları en sona yazılır,
+bütün sayfa açıldıktan sonra açılmasını istiyorsak.
+Js kodunu yazabilmek için Script etiketini kullanıyoruz
+*Alert komutu pencere açıyor.C tabanlı diller de olduğu gibi burada noktalı virgül kullanmak 
+gerekiyor.
+*Js de değişken tanımlama komutu =)var dır.variable'dan geliyor
