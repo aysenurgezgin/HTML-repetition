@@ -27,3 +27,27 @@ Js kodunu yazabilmek için Script etiketini kullanıyoruz
 *Alert komutu pencere açıyor.C tabanlı diller de olduğu gibi burada noktalı virgül kullanmak 
 gerekiyor.
 *Js de değişken tanımlama komutu =)var dır.variable'dan geliyor
+document.write(); Dökümana yaz demek.
+
+*İçeriği değiştirmek için innerHTML kullanılır.
+*Metinler Js'te çift tırnak içine yazılır.
+*//Açıklama komutudur.
+
+/Js için Kütüphanler(Yaygın olanlar);
+Jquery
+React.js
+Anguler
+Anime.js
+Moment.js
+Vue.js
+
+
+-Bootsrap aslında js kütüphanesidir ama onun da içinde js kodları var.
+-Eğer kütüphane çok büyükse;framework olur artık.(JavaScript framework);
+Anguler,React,Vue,Ember.js,Meteor
+
+Eğer web tasarımıyla ya da web uygulması geliştiriliyorsa,mobil uygulamalar geliştirmek için;
+Js kullanmak gerekiyor!!!JS öğrendikten sonra da bu js framework'lerini kullanarak çok hızlı
+gerek istemci tarafında(taracı)çalışan yani uygulamalar geliştirlebilir;gerekse sunucu tarafında 
+çalışan (server side Node.Js gibi dilleri kullanarak) uygulamlar geliştrebiliriz.
+Ya da Android ya da Ios üzerinde çalışan uygulamalar geliştirebilirz.

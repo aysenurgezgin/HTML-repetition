@@ -1,0 +1,14 @@
+.Görsel öğeleri tasarlamak için görüntü işleme yazılımı öğren;
+-Photoshop
+-GIMP
+-Fireworks
+
+.SEO konusunda daha ayrıntılı bilgi edin.
+
+.Çok yaygın kullanılan Bootstrap(CSS3 kütüphanesi)öğren.
+
+.Etkileşimli web sayfaları tasarlamak için JavaScript öğren.
+
+.Çok yaygın kullanılan JQuery(Js kütüphanesi)öğren.Az kod çok iş!
+
+.Dinamik web sayfalarını oluşturmak için PHP veya ASP gibi teknolojileri öğren.(veri tabanı olan dinamik)
