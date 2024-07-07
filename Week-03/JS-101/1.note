@@ -2,3 +2,17 @@
 *HTML sayfalarının içine program yazıp bu sayfaları dinamik hale getirmek için kullanılır.
 *Kodlar ziyaretçinin taryıcısında çalıştığı için oldukça hızlıdır.
 *Js,HTML5 gibi, tüm modern taryıcılar tarafından desteklenir.
+Tarayıcı;
+İstemci;
+
+&JavaScript ile neler yapılır?
+.HTML sayfalarının biçimlendirilmesi.
+.HTML sayfalarında animasyon vb.işlemler.
+.Formlardaki verilerin doğruluk denetimi.
+.Ziyaretçi bilgisayarında çalışan <<istemci taraflı>>yazılımlar.
+.Sunucuda çalışan ve ziyaertçinin kullanıdığı<<sunucu taraflı>>yazılımlar.(Node.JS)
+.Mobil Uygulama(Meteor,NativeScript)
+.Gömülü sistemler.(ESP32 gibi kartların programlanmsı)
+Web'in programlama dili.
+!Bilgisayar ve web taracısı istemci olarak adlandırılır.Web sayfasını oluşturan gelişmiş 
+bilgisayarlar,veritabanları ve uygulamalar da Sunucu olarak adlandırlır.
