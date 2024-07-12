@@ -1,0 +1,15 @@
+Donanım:Bilgisayarı oluşturan elektronik ve mekanik aygıtlara denir
+Yazılım:Bilgisayarın çalışması  ve belli bir işi yapabilmesi için kullanılan programdır.
+
+Temel Yazılım Bileşenleri:
+1)İşletim Sistemleri;Bilgisayarın çaşılması ve bazı temel görevleri yapar;kapatılması,dosya yönetimi
+ve bellek yönetimi gibi temel görevleridir.Windows,Linux ve UNIX gibi yazılımlar işletim sistemlerine
+örnektir.
+2)Uygulama Programı;Belli bir işi yapmak üzere üretilen yazılımlardır.Örn Word programı yazı işleri
+için kullanılırken Autocad programı çizim işleri için kullanılır.
+3)Programlama Dilleri;Program yazmak için üretilen yazılımlardır.BASIC,Java,C++ ve C# prog dilleri
+gibi.
+4)Oyunlar
+
+Algoritma Nedir;
+Bir sorunu (problemi)çözmek için kullanılan yöntemdir.
