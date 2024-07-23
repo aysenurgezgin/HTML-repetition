@@ -13,3 +13,7 @@ gibi.
 
 Algoritma Nedir;
 Bir sorunu (problemi)çözmek için kullanılan yöntemdir.
+
+
+
+
